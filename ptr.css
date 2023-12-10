@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(15, 221, 221);
+    
+}
+h1{
+    background-color: brown;
+    margin: 2%;
+    text-align: center;
+    padding: 2%;
+    
+}
+p{
+    margin: auto;
+    padding-top: 2%;
+    text-align: center;
+    font-size: 20px;
+    
+
+}
